@@ -3,4 +3,4 @@
 
 you need to have coinchat client installed
 
-  npm install coinchat-client
+      npm install coinchat-client
