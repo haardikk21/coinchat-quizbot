@@ -11,7 +11,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Cricket",
                                         "optC" : "Pool",
                                         "optD" : "Soccer",
-                                        "ans"  : "Polo"
+                                        "ans"  : "A"
                 },
                
                 {
@@ -20,7 +20,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "15",
                                         "optC" : "19",
                                         "optD" : "21",
-                                        "ans"  : "19"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "If a snail climbed up a 12 ft wall at a steady rate of 3 ft a day, but slipped down 2 ft every night, how many days will it take him to reach the top?",
@@ -28,7 +28,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "5 Days",
                                         "optC" : "10 Days",
                                         "optD" : "12 Days",
-                                        "ans"  : "10 Days"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "What is a fadango?",
@@ -36,15 +36,15 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Dance",
                                         "optC" : "Sport",
                                         "optD" : "None",
-                                        "ans"  : "Dance"
+                                        "ans"  : "B"
                 },
                 {
                                         "q" : "Which world famous card features a centurion on its face?",
                                         "optA" : "Mastercard",
                                         "optB" : "Visa",
-                                        "optC" : "Standard Charteres",
+                                        "optC" : "Standard Chartered",
                                         "optD" : "American Express",
-                                        "ans"  : "American Express"
+                                        "ans"  : "D"
                 },
                 {
                                         "q" : "Which classic board game involves points, blots, tables and bearing off?",
@@ -52,7 +52,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Chess",
                                         "optC" : "Checkers",
                                         "optD" : "Backgammon",
-                                        "ans"  : "Backgammon"
+                                        "ans"  : "D"
                 },
                 {
                                         "q" : "What colour is an aircraft's 'black box' flight recorder?",
@@ -60,7 +60,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Red",
                                         "optC" : "Orange",
                                         "optD" : "Yellow",
-                                        "ans"  : "Orange"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "What sort of precious stone is the star of India?",
@@ -68,7 +68,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Ruby",
                                         "optC" : "Sapphire",
                                         "optD" : "Pearl",
-                                        "ans"  : "Sapphire"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "How many astronauts manned each Apollo mission?",
@@ -76,7 +76,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Five",
                                         "optC" : "Three",
                                         "optD" : "Seven",
-                                        "ans"  : "Three"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "What do you get if you cross a donkey with a horse?",
@@ -84,7 +84,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Goat",
                                         "optC" : "Sheep",
                                         "optD" : "Ass",
-                                        "ans"  : "Mule"
+                                        "ans"  : "A"
                 },
                 {
                                         "q" : "How old you must be before you can become the president of the United States?",
@@ -92,7 +92,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "27",
                                         "optC" : "35",
                                         "optD" : "33",
-                                        "ans"  : "35"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "Which country is known as the land of the rising sun?",
@@ -100,7 +100,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Nepal",
                                         "optC" : "Japan",
                                         "optD" : "India",
-                                        "ans"  : "Japan"
+                                        "ans"  : "C"
                 },
                 {
                                         "q" : "How many cents are there in a dime?",
@@ -108,7 +108,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "5",
                                         "optC" : "100",
                                         "optD" : "4",
-                                        "ans"  : "10"
+                                        "ans"  : "A"
                 },
                 {
                                         "q" : "Which acid is found in vinegar?",
@@ -116,7 +116,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Acetic",
                                         "optC" : "Boric",
                                         "optD" : "Citric",
-                                        "ans"  : "Acetic"
+                                        "ans"  : "B"
                 },
                 {
                                         "q" : "A parallel port is most often used by?",
@@ -124,7 +124,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Mouse",
                                         "optC" : "Keyboard",
                                         "optD" : "External Storage Devices",
-                                        "ans"  : "Printer"
+                                        "ans"  : "A"
                 },
                 {
                                         "q" : "One byte consists of?",
@@ -132,7 +132,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "8 bits",
                                         "optC" : "16 bits",
                                         "optD" : "10 bits",
-                                        "ans"  : "8 bits"
+                                        "ans"  : "B"
                 },
                 {
                                         "q" : "Batch processing is also known as?",
@@ -140,7 +140,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Sequential",
                                         "optC" : "Off Line Processing",
                                         "optD" : "All of the Above",
-                                        "ans"  : "All of the Above"
+                                        "ans"  : "D"
                 },
                 {
                                         "q" : "Mention the odd man out",
@@ -148,7 +148,7 @@ var bals = JSON.parse(fs.readFileSync("../sample/lib/data.json"));
                                         "optB" : "Christiano Ronaldo",
                                         "optC" : "Logan Lerman",
                                         "optD" : "Didier Drogba",
-                                        "ans"  : "Logan Lerman"
+                                        "ans"  : "C"
                 }
 ];
 
@@ -241,7 +241,7 @@ QuizBot.prototype.handleMessage = function(msg) {
 };
 QuizBot.prototype.teststring = function(msg) {
 	var jsonstring = JSON.stringify(bals, null, 4);
-	console.log(jsonstring);
+	this.client.pushMessage(msg.room, jsonstring);
 }
 
 QuizBot.prototype.savestuff = function(msg) {
@@ -281,7 +281,7 @@ QuizBot.prototype.DisplayQuestion = function(msg) {
   var opts = 'Option A: ' + qz.optA + ' Option B: ' + qz.optB + ' Option C: ' + qz.optC + ' Option D: ' + qz.optD; 
   
   this.client.pushMessage(msg.room, "Your question is : " + qz.q + " Your options are: " + opts);
-  this.client.pushMessage(msg.room, "You need to use '!ans' to answer the question. !ans 'answer'");
+  this.client.pushMessage(msg.room, "You need to use '!ans' to answer the question. !ans 'option'");
   currentanswer = qz.ans.toLowerCase();
   this.qDisplayed = true;
 }
@@ -373,7 +373,7 @@ QuizBot.prototype.startQuiz = function(msg) {
 				if(bals[msg.user] >= splittip) {
 					bals[msg.user] = Number(bals[msg.user]) - Number(splittip);
 					this.activeUsers[0] = msg.user.toLowerCase();
-					this.client.pushMessage(msg.room, msg.user + ": Please invite someone to play with you.");
+					this.client.pushMessage(msg.room, msg.user + ": You have started a quiz. To join " + msg.user + " in the quiz, do !quiz");
 					currentquiztip = splittip;
 					this.savestuff(msg);
 				}else{
